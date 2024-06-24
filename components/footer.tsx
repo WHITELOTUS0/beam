@@ -20,7 +20,7 @@ export function Footer() {
         </span>
       </div>
       <a
-        href="https://github.com/planetscale/beam"
+        href="https://github.com/WHITELOTUS0/beam"
         target="_blank"
         rel="noreferrer"
         className="inline-flex items-center gap-2 text-sm transition-colors text-secondary hover:text-primary"
